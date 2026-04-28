@@ -94,10 +94,21 @@ Contributions are welcome! If you spot errors, want to add diagrams, or extend w
 
 ## ⭐ Acknowledgements
 
-Inspired by and based on [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) — one of the most starred repos on GitHub.
+This project is a slide adaptation of the original **[System Design Primer](https://github.com/donnemartin/system-design-primer)** by **[Donne Martin](https://github.com/donnemartin)** — one of the most comprehensive and widely used system design resources, with over 270k stars on GitHub.
+
+All core concepts, explanations, and structure are derived from Donne Martin’s work. This repo reformats that content into slide-friendly Markdown and PowerPoint presentations for easier studying and presenting. Full credit goes to the original author.
 
 ---
 
 ## 📄 License
 
-MIT — feel free to use, share, and adapt with attribution.
+This work is licensed under the **[Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)**.
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to **Donne Martin** (original [System Design Primer](https://github.com/donnemartin/system-design-primer)) and **Prakhar Yadav** (this slides adaptation), provide a link to the license, and indicate if changes were made.
