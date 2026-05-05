@@ -1,0 +1,7 @@
+{
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/Users/prakhar.yadav/Workspace/Side-Projects/Personal-Projects/opensenate\"}",
+  "error": "EISDIR: illegal operation on a directory, read '/Users/prakhar.yadav/Workspace/Side-Projects/Personal-Projects/opensenate'",
+  "timestamp": "2026-05-05T02:50:07.401Z",
+  "retry_count": 1
+}
